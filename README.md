@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WSmalley
+- 👀 I’m interested in data analytics, Commercial Real Estate, Financial Markets
+- 🌱 I’m currently learning data analyics & statistics @ Vanderbilt University
+- 💞️ I’m looking to collaborate on anything that sounds interesting based on my interests above!
+- 📫 How to reach me williambsmalley1@gmail.com
