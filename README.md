@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @WSmalley
-- 👀 I’m interested in data analytics, Commercial Real Estate, Financial Markets
-- 📫 How to reach me williambsmalley1@gmail.com
+williambsmalley1@gmail.com
